@@ -1,0 +1,17 @@
+# --- Datasets (Too large for GitHub) ---
+splitted_dataset/
+yolo_dataset/images/
+yolo_dataset/labels/
+
+# --- YOLO/Ultralytics Logs ---
+runs/
+
+# --- Trained Model Weights & Large Files ---
+*.pt
+*.keras
+*.tflite
+*.h5
+*.onnx
+*.png
+saved_model/
+yolo_saved_model/

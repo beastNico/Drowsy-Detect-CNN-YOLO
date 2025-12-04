@@ -1,0 +1,8 @@
+names:
+- Drowsy
+- Non Drowsy
+nc: 2
+path: d:\Drowsy-Detect-CNN-YOLO\yolo_dataset
+test: images/test
+train: images/train
+val: images/val
