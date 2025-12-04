@@ -1,6 +1,6 @@
 # --- Datasets (Too large for GitHub) ---
 splitted_dataset/
-yolo_dataset
+yolo_dataset/
 
 # --- YOLO/Ultralytics Logs ---
 runs/
