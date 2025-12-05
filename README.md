@@ -6,7 +6,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-00FFFF?style=flat-square)](https://github.com/ultralytics/ultralytics)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
  **A comprehensive comparative analysis implementing CNN-based Transfer Learning (MobileNetV2) and YOLOv11 object detection to tackle real-time driver drowsiness detection for safer roads worldwide.**
 
