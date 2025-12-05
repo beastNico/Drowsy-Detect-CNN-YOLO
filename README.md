@@ -302,7 +302,7 @@ Our systematic approach follows four distinct phases:
 
 ```bash
 # Clone repository
-git clone [https://github.com/beastNico/Drowsy-Detect-CNN-YOLO.git](https://github.com/beastNico/Drowsy-Detect-CNN-YOLO.git)
+git clone https://github.com/beastNico/Drowsy-Detect-CNN-YOLO.git
 cd Drowsy-Detect-CNN-YOLO
 
 # Create virtual environment
